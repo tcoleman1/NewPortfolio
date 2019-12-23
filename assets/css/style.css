@@ -1,0 +1,59 @@
+#bg{
+    background-image: url("../images/mathematics.jpg")
+}
+.navbar-custom{
+    color: #C5CCE0;
+    background-color: #292929;
+    margin-bottom: 25px;
+}
+
+.block-custom{
+    color: #C5CCE0;
+    background-color: #1f1f1f !important;
+    margin: 25px;
+    font-family: "Helvetica Neu", Helvetica, Arial, sans-serif;
+}
+#about-me{
+    font-size: 20px;
+    height: 250px;
+    overflow: auto;
+}
+
+#project-jumbo{
+    height: 755px;
+    overflow: auto;
+}
+
+#contact-info{
+    font-size: 20px;
+    height: 275px;
+}
+
+#technologies{
+    font-size: 20px;
+    height: 450px;
+    overflow: auto;
+}
+
+#tech-list{
+    line-height: 200%;
+}
+
+#headshot{
+    margin: 25px;
+    padding: 25px;
+    background-color: #292929;
+    border-radius: 5px;
+    height: 250px;
+}
+
+.project{
+    font-size: 18px;
+}
+
+.zoom {
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.15);
+}
