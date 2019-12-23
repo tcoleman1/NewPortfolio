@@ -3,13 +3,17 @@
 }
 .navbar-custom{
     color: #C5CCE0;
-    background-color: #292929;
+    
+    /* background-color: #292929; */
+    background-color:gray;
     margin-bottom: 25px;
 }
 
 .block-custom{
-    color: #C5CCE0;
-    background-color: #1f1f1f !important;
+    /* color: #C5CCE0; */
+    color: navy;
+    background-color: gray !important;
+    /* background-color: #1f1f1f */
     margin: 25px;
     font-family: "Helvetica Neu", Helvetica, Arial, sans-serif;
 }
@@ -42,7 +46,7 @@
 #headshot{
     margin: 25px;
     padding: 25px;
-    background-color: #292929;
+    background-color: gray;
     border-radius: 5px;
     height: 250px;
 }
